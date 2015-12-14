@@ -1,0 +1,14 @@
+.classpath
+.gradle/
+.project
+.settings/
+bin/
+build/
+.idea/workspace.xml
+**/*.log
+src/main/resources/application.properties
+.idea
+*.DS_Store
+TestSpringBoot.iml
+
+
